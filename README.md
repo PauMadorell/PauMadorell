@@ -1,6 +1,6 @@
 ### **Hola buenas, welcome welcome.**
 ### **Tengo amigos que son programadores, pero yo no lo soy tanto.**
-===
+---
 
 ![Cara Fachera](https://pbs.twimg.com/media/E1RrPFNUUAkXklu?format=png&name=small)
 
