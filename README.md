@@ -1,5 +1,6 @@
 ### **Hola buenas, welcome welcome.**
 ### **Tengo amigos que son programadores, pero yo no lo soy tanto.**
+|[Cara Fachera](https://pbs.twimg.com/media/E1RrPFNUUAkXklu?format=png&name=small)
 
 <!--
 **PauMadorell2A/PauMadorell2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
