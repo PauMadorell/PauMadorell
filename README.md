@@ -1,4 +1,5 @@
-### Me gusta el dinero carafachera. 
+### **Hola buenas, welcome welcome.**
+### **Tengo amigos que son programadores, pero yo no lo soy tanto.**
 
 <!--
 **PauMadorell2A/PauMadorell2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
