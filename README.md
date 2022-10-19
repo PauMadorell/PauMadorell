@@ -6,5 +6,5 @@
 
 ## Redes Sociales uwu
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pau-madorell-taulats-765431224/)
-[![Artstation](https://img.shields.io/badge/Artstation-Brais_Moure-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PauMadorell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pau-madorell-taulats-765431224/)
+[![Artstation](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)]
