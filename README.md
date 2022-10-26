@@ -3,9 +3,9 @@
 #### También me gusta el concept art y es a lo que aspiro poder dedicarme
 ---
 
-## What I do?
+## Who am I?
 
-### I'm a videogame developer, especialized in concept art & programming
+#### Hi, I'm a videogame developer, especialized in concept art & programming. Currently I'm a student at CEV Barcelona, and I haven't participated in any big project, but I guess that's normal...
 
 
 
