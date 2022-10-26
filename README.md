@@ -7,13 +7,13 @@ WELCOME TO MY GITHUB PORFILE
 
 ### These are the softwares I manage
 
-[![Photoshop](https://img.shields.io/badge/Photoshop-PauMadorell-0077B5?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&labelColor=101010)]
+![Photoshop](https://img.shields.io/badge/Photoshop-FFFFFF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&labelColor=31A8FF)
 
 
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PauMadorell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pau-madorell-taulats-765431224/)  
 
-[![Artstation](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=blue&labelColor=101010)](https://www.artstation.com/miau_padu)
+[![Artstation](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=blue&labelColor=13AFF0)](https://www.artstation.com/miau_padu)
 
 [![Itch.IO](https://img.shields.io/badge/Itch.io-MiauPadu-0077B5?style=for-the-badge&logo=Itch.io&logoColor=white&labelColor=101010)](https://miau-padu.itch.io/)
