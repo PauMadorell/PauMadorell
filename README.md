@@ -7,7 +7,7 @@ WELCOME TO MY GITHUB PORFILE
 
 ### These are the softwares I manage
 
-
+[![Photoshop](https://img.shields.io/badge/logo=Photoshopn&logoColor=white&labelColor=101010)]
 
 
 ## Socials
