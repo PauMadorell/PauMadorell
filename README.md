@@ -4,7 +4,7 @@
 ---
 ![Cara Fachera](https://pbs.twimg.com/media/E1RrPFNUUAkXklu?format=png&name=small)
 
-## Redes Sociales uwu
+## Redes Sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PauMadorell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pau-madorell-taulats-765431224/)  
 
