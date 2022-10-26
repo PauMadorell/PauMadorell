@@ -12,8 +12,8 @@ WELCOME TO MY GITHUB PORFILE
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PauMadorell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pau-madorell-taulats-765431224/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PauMadorell-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/pau-madorell-taulats-765431224/)  
 
-[![Artstation](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=blue&labelColor=13AFF0)](https://www.artstation.com/miau_padu)
+[![Artstation](https://img.shields.io/badge/Artstation-MiauPadu-FFFFFF?style=for-the-badge&logo=Artstation&logoColor=blue&labelColor=13AFF0)](https://www.artstation.com/miau_padu)
 
-[![Itch.IO](https://img.shields.io/badge/Itch.io-MiauPadu-0077B5?style=for-the-badge&logo=Itch.io&logoColor=white&labelColor=101010)](https://miau-padu.itch.io/)
+[![Itch.IO](https://img.shields.io/badge/Itch.io-MiauPadu-FFFFFF?style=for-the-badge&logo=Itch.io&logoColor=white&labelColor=FA5C5C)](https://miau-padu.itch.io/)
