@@ -5,6 +5,7 @@ WELCOME TO MY GITHUB PORFILE
 
 #### Hi, I'm a videogame developer, especialized in concept art & programming. Currently I'm a student at CEV Barcelona, and I haven't participated in any big project, but I guess that's normal...
 
+### These are the softwares I manage
 
 
 
