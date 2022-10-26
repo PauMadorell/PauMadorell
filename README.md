@@ -7,10 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PauMadorell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pau-madorell-taulats-765431224/)  
 
-[![Artstation](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)]
-(https://www.artstation.com/miau_padu)
+[![Artstation](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)](https://www.artstation.com/miau_padu)
 
-[![Instagram](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)]
-
+[![Instagram](https://img.shields.io/badge/Instagram-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)]
+()
 
 [![Itch.IO](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)]
