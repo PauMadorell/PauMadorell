@@ -9,4 +9,4 @@
 
 [![Artstation](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=blue&labelColor=101010)](https://www.artstation.com/miau_padu)
 
-[![Itch.IO](https://img.shields.io/badge/Artstation-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)](https://miau-padu.itch.io/)
+[![Itch.IO](https://img.shields.io/badge/Itch.io-MiauPadu-0077B5?style=for-the-badge&logo=Artstation&logoColor=white&labelColor=101010)](https://miau-padu.itch.io/)
