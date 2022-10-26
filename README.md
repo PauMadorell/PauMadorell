@@ -1,6 +1,4 @@
-## Hola buenas, me llamo Pau
-#### Tengo amigos que son programadores, yo no tanto pero lo intento.
-#### También me gusta el concept art y es a lo que aspiro poder dedicarme
+#HI, WELCOME TO MY GITHUB PORFILE
 ---
 
 ## Who am I?
