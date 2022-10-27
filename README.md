@@ -17,6 +17,8 @@ WELCOME TO MY GITHUB PORFILE
 #### I like to spend my free time doing different activities, suchs as playing videogames (I think I don't need to explain why). My favourite genre are strategy, open world and shooters. I also like drawing and sometimes I have the need of playing the piano which I don't know how to but there's nothing wrong with trying.
 
 
+
+
 ## Socials  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PauMadorell-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/pau-madorell-taulats-765431224/)  
