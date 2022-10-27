@@ -8,7 +8,11 @@ WELCOME TO MY GITHUB PORFILE
 ### These are the softwares I manage
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-FFFFFF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&labelColor=31A8FF)  
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white&labelColor=31A8FF)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white&labelColor=31A8FF)  
+![Premiere](https://img.shields.io/badge/AdobePremiere-FFFFFF?style=for-the-badge&logo=AdobePremiere&logoColor=white&labelColor=9999FF)
+![Autodesk](https://img.shields.io/badge/Autodesk-FFFFFF?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=0696D7)
+
+
 
 ## Socials
 
