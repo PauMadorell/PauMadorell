@@ -2,7 +2,7 @@ WELCOME TO MY GITHUB PORFILE
 ---
 
 ## Who am I?  
-#### Hi, my name is Pau and I'm a videogame developer, especialized in game dessing & programming. I just graduated at CEV Barcelona recently
+#### Hi, my name is Pau and I'm a videogame developer, especialized in game dessing & programming. I just graduated at CEV Barcelona recently and I'm looking forward to work in the industry.
 
 ## These are the softwares I use the most
 
